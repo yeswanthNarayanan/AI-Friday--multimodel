@@ -1,0 +1,14 @@
+gradio
+PyPDF2
+tqdm
+gtts
+transformers
+diffusers
+torch
+torchvision
+torchaudio
+Pillow
+PyMuPDF
+SpeechRecognition
+ollama
+qrcode
